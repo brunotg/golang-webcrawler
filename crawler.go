@@ -176,7 +176,7 @@ func countWordFreq(doc *html.Node) map[string]int {
 		if n.Type == html.TextNode {
 			for _, raw := range strings.Fields(n.Data) {
 				if w := cleanWord(raw); w != "" {
-					freq[w] = 1
+					freq[w]++
 				}
 			}
 		}
