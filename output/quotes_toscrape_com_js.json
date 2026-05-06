@@ -1,0 +1,2174 @@
+{
+  "start_url": "https://quotes.toscrape.com/js/",
+  "pages_visited": 439,
+  "total_words": 43280,
+  "top_50_words": [
+    {
+      "word": "by",
+      "count": 439
+    },
+    {
+      "word": "goodreads.com",
+      "count": 439
+    },
+    {
+      "word": "login",
+      "count": 439
+    },
+    {
+      "word": "made",
+      "count": 439
+    },
+    {
+      "word": "quotes",
+      "count": 439
+    },
+    {
+      "word": "scrape",
+      "count": 439
+    },
+    {
+      "word": "to",
+      "count": 439
+    },
+    {
+      "word": "with",
+      "count": 439
+    },
+    {
+      "word": "zyte",
+      "count": 439
+    },
+    {
+      "word": "life",
+      "count": 378
+    },
+    {
+      "word": "books",
+      "count": 362
+    },
+    {
+      "word": "about",
+      "count": 348
+    },
+    {
+      "word": "friends",
+      "count": 338
+    },
+    {
+      "word": "love",
+      "count": 334
+    },
+    {
+      "word": "humor",
+      "count": 332
+    },
+    {
+      "word": "reading",
+      "count": 332
+    },
+    {
+      "word": "ten",
+      "count": 332
+    },
+    {
+      "word": "friendship",
+      "count": 330
+    },
+    {
+      "word": "inspirational",
+      "count": 326
+    },
+    {
+      "word": "simile",
+      "count": 326
+    },
+    {
+      "word": "tags",
+      "count": 326
+    },
+    {
+      "word": "top",
+      "count": 326
+    },
+    {
+      "word": "truth",
+      "count": 326
+    },
+    {
+      "word": "tag",
+      "count": 304
+    },
+    {
+      "word": "viewing",
+      "count": 304
+    },
+    {
+      "word": "a",
+      "count": 300
+    },
+    {
+      "word": "the",
+      "count": 290
+    },
+    {
+      "word": "is",
+      "count": 258
+    },
+    {
+      "word": "and",
+      "count": 246
+    },
+    {
+      "word": "of",
+      "count": 242
+    },
+    {
+      "word": "it",
+      "count": 196
+    },
+    {
+      "word": "that",
+      "count": 196
+    },
+    {
+      "word": "in",
+      "count": 190
+    },
+    {
+      "word": "you",
+      "count": 184
+    },
+    {
+      "word": "as",
+      "count": 180
+    },
+    {
+      "word": "not",
+      "count": 174
+    },
+    {
+      "word": "for",
+      "count": 154
+    },
+    {
+      "word": "i",
+      "count": 154
+    },
+    {
+      "word": "one",
+      "count": 152
+    },
+    {
+      "word": "who",
+      "count": 150
+    },
+    {
+      "word": "be",
+      "count": 146
+    },
+    {
+      "word": "but",
+      "count": 142
+    },
+    {
+      "word": "on",
+      "count": 142
+    },
+    {
+      "word": "was",
+      "count": 124
+    },
+    {
+      "word": "all",
+      "count": 120
+    },
+    {
+      "word": "are",
+      "count": 120
+    },
+    {
+      "word": "at",
+      "count": 118
+    },
+    {
+      "word": "an",
+      "count": 116
+    },
+    {
+      "word": "have",
+      "count": 112
+    },
+    {
+      "word": "only",
+      "count": 110
+    }
+  ],
+  "subdomains": [
+    {
+      "host": "quotes.toscrape.com",
+      "pages_visited": 439,
+      "total_words": 43280,
+      "top_50_words": [
+        {
+          "word": "by",
+          "count": 439
+        },
+        {
+          "word": "goodreads.com",
+          "count": 439
+        },
+        {
+          "word": "login",
+          "count": 439
+        },
+        {
+          "word": "made",
+          "count": 439
+        },
+        {
+          "word": "quotes",
+          "count": 439
+        },
+        {
+          "word": "scrape",
+          "count": 439
+        },
+        {
+          "word": "to",
+          "count": 439
+        },
+        {
+          "word": "with",
+          "count": 439
+        },
+        {
+          "word": "zyte",
+          "count": 439
+        },
+        {
+          "word": "life",
+          "count": 378
+        },
+        {
+          "word": "books",
+          "count": 362
+        },
+        {
+          "word": "about",
+          "count": 348
+        },
+        {
+          "word": "friends",
+          "count": 338
+        },
+        {
+          "word": "love",
+          "count": 334
+        },
+        {
+          "word": "humor",
+          "count": 332
+        },
+        {
+          "word": "reading",
+          "count": 332
+        },
+        {
+          "word": "ten",
+          "count": 332
+        },
+        {
+          "word": "friendship",
+          "count": 330
+        },
+        {
+          "word": "inspirational",
+          "count": 326
+        },
+        {
+          "word": "simile",
+          "count": 326
+        },
+        {
+          "word": "tags",
+          "count": 326
+        },
+        {
+          "word": "top",
+          "count": 326
+        },
+        {
+          "word": "truth",
+          "count": 326
+        },
+        {
+          "word": "tag",
+          "count": 304
+        },
+        {
+          "word": "viewing",
+          "count": 304
+        },
+        {
+          "word": "a",
+          "count": 300
+        },
+        {
+          "word": "the",
+          "count": 290
+        },
+        {
+          "word": "is",
+          "count": 258
+        },
+        {
+          "word": "and",
+          "count": 246
+        },
+        {
+          "word": "of",
+          "count": 242
+        },
+        {
+          "word": "it",
+          "count": 196
+        },
+        {
+          "word": "that",
+          "count": 196
+        },
+        {
+          "word": "in",
+          "count": 190
+        },
+        {
+          "word": "you",
+          "count": 184
+        },
+        {
+          "word": "as",
+          "count": 180
+        },
+        {
+          "word": "not",
+          "count": 174
+        },
+        {
+          "word": "for",
+          "count": 154
+        },
+        {
+          "word": "i",
+          "count": 154
+        },
+        {
+          "word": "one",
+          "count": 152
+        },
+        {
+          "word": "who",
+          "count": 150
+        },
+        {
+          "word": "be",
+          "count": 146
+        },
+        {
+          "word": "but",
+          "count": 142
+        },
+        {
+          "word": "on",
+          "count": 142
+        },
+        {
+          "word": "was",
+          "count": 124
+        },
+        {
+          "word": "all",
+          "count": 120
+        },
+        {
+          "word": "are",
+          "count": 120
+        },
+        {
+          "word": "at",
+          "count": 118
+        },
+        {
+          "word": "an",
+          "count": 116
+        },
+        {
+          "word": "have",
+          "count": 112
+        },
+        {
+          "word": "only",
+          "count": 110
+        }
+      ],
+      "pages": [
+        {
+          "url": "http://quotes.toscrape.com/",
+          "word_count": 148
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Albert-Einstein",
+          "word_count": 332
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Alexandre-Dumas-fils",
+          "word_count": 264
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Alfred-Tennyson",
+          "word_count": 160
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Allen-Saunders",
+          "word_count": 182
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Andre-Gide",
+          "word_count": 119
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Ayn-Rand",
+          "word_count": 191
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Bob-Marley",
+          "word_count": 113
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/C-S-Lewis",
+          "word_count": 107
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Charles-Bukowski",
+          "word_count": 193
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Charles-M-Schulz",
+          "word_count": 334
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Douglas-Adams",
+          "word_count": 162
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Dr-Seuss",
+          "word_count": 245
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/E-E-Cummings",
+          "word_count": 277
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Eleanor-Roosevelt",
+          "word_count": 133
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Elie-Wiesel",
+          "word_count": 111
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Ernest-Hemingway",
+          "word_count": 216
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Friedrich-Nietzsche",
+          "word_count": 114
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Garrison-Keillor",
+          "word_count": 339
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/George-Bernard-Shaw",
+          "word_count": 209
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/George-Carlin",
+          "word_count": 127
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/George-Eliot",
+          "word_count": 243
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/George-R-R-Martin",
+          "word_count": 210
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Harper-Lee",
+          "word_count": 217
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Haruki-Murakami",
+          "word_count": 167
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Helen-Keller",
+          "word_count": 281
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/J-D-Salinger",
+          "word_count": 205
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/J-K-Rowling",
+          "word_count": 341
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/J-M-Barrie",
+          "word_count": 138
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/J-R-R-Tolkien",
+          "word_count": 279
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/James-Baldwin",
+          "word_count": 220
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Jane-Austen",
+          "word_count": 199
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Jim-Henson",
+          "word_count": 129
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Jimi-Hendrix",
+          "word_count": 178
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/John-Lennon",
+          "word_count": 211
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Jorge-Luis-Borges",
+          "word_count": 138
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Khaled-Hosseini",
+          "word_count": 156
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Madeleine-LEngle",
+          "word_count": 264
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Marilyn-Monroe",
+          "word_count": 227
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Mark-Twain",
+          "word_count": 190
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Martin-Luther-King-Jr",
+          "word_count": 126
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Mother-Teresa",
+          "word_count": 130
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Pablo-Neruda",
+          "word_count": 229
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Ralph-Waldo-Emerson",
+          "word_count": 291
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Stephenie-Meyer",
+          "word_count": 275
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Steve-Martin",
+          "word_count": 101
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Suzanne-Collins",
+          "word_count": 192
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Terry-Pratchett",
+          "word_count": 198
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/Thomas-A-Edison",
+          "word_count": 130
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/W-C-Fields",
+          "word_count": 170
+        },
+        {
+          "url": "http://quotes.toscrape.com/author/William-Nicholson",
+          "word_count": 197
+        },
+        {
+          "url": "http://quotes.toscrape.com/login",
+          "word_count": 11
+        },
+        {
+          "url": "http://quotes.toscrape.com/page/1/",
+          "word_count": 148
+        },
+        {
+          "url": "http://quotes.toscrape.com/page/10/",
+          "word_count": 149
+        },
+        {
+          "url": "http://quotes.toscrape.com/page/2/",
+          "word_count": 265
+        },
+        {
+          "url": "http://quotes.toscrape.com/page/3/",
+          "word_count": 173
+        },
+        {
+          "url": "http://quotes.toscrape.com/page/4/",
+          "word_count": 132
+        },
+        {
+          "url": "http://quotes.toscrape.com/page/5/",
+          "word_count": 146
+        },
+        {
+          "url": "http://quotes.toscrape.com/page/6/",
+          "word_count": 158
+        },
+        {
+          "url": "http://quotes.toscrape.com/page/7/",
+          "word_count": 215
+        },
+        {
+          "url": "http://quotes.toscrape.com/page/8/",
+          "word_count": 190
+        },
+        {
+          "url": "http://quotes.toscrape.com/page/9/",
+          "word_count": 205
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/abilities/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/activism/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/adulthood/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/adventure/page/1/",
+          "word_count": 34
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/age/page/1/",
+          "word_count": 41
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/alcohol/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/aliteracy/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/apathy/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/attributed-no-source/page/1/",
+          "word_count": 70
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/attributed/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/authors/page/1/",
+          "word_count": 68
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/be-yourself/page/1/",
+          "word_count": 41
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/beatles/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/better-life-empathy/page/1/",
+          "word_count": 50
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/bilbo/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/books/",
+          "word_count": 167
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/books/page/1/",
+          "word_count": 167
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/books/page/2/",
+          "word_count": 41
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/change/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/children/page/1/",
+          "word_count": 59
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/chocolate/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/choices/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/christianity/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/classic/page/1/",
+          "word_count": 56
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/comedy/page/1/",
+          "word_count": 43
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/connection/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/contentment/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/courage/page/1/",
+          "word_count": 52
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/death/page/1/",
+          "word_count": 69
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/deep-thoughts/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/difficult/page/1/",
+          "word_count": 48
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/dreamers/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/dreaming/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/dreams/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/drug/page/1/",
+          "word_count": 35
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/dumbledore/page/1/",
+          "word_count": 53
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/edison/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/education/page/1/",
+          "word_count": 35
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/elizabeth-bennet/page/1/",
+          "word_count": 69
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/failure/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/fairy-tales/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/fairytales/page/1/",
+          "word_count": 41
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/faith/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/fantasy/page/1/",
+          "word_count": 43
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/fate/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/fear/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/food/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/friends/",
+          "word_count": 160
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/friends/page/1/",
+          "word_count": 160
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/friendship/",
+          "word_count": 98
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/friendship/page/1/",
+          "word_count": 98
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/girls/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/god/page/1/",
+          "word_count": 46
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/good/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/growing-up/page/1/",
+          "word_count": 41
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/grown-ups/page/1/",
+          "word_count": 48
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/happiness/page/1/",
+          "word_count": 39
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/hate/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/heartbreak/page/1/",
+          "word_count": 137
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/hope/page/1/",
+          "word_count": 64
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/humor/",
+          "word_count": 170
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/humor/page/1/",
+          "word_count": 170
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/humor/page/2/",
+          "word_count": 55
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/imagination/page/1/",
+          "word_count": 36
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/indifference/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/insanity/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/inspiration/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/inspirational/",
+          "word_count": 233
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/inspirational/page/1/",
+          "word_count": 233
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/inspirational/page/2/",
+          "word_count": 72
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/integrity/page/1/",
+          "word_count": 63
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/jane-austen/page/1/",
+          "word_count": 69
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/journey/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/knowledge/page/1/",
+          "word_count": 39
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/lack-of-friendship/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/lack-of-love/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/learning/page/1/",
+          "word_count": 51
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/library/page/1/",
+          "word_count": 69
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/lies/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/life/",
+          "word_count": 229
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/life/page/1/",
+          "word_count": 229
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/life/page/2/",
+          "word_count": 71
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/literature/page/1/",
+          "word_count": 68
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/live-death-love/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/live/page/1/",
+          "word_count": 45
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/lost/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/love/",
+          "word_count": 273
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/love/page/1/",
+          "word_count": 273
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/love/page/2/",
+          "word_count": 121
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/lying/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/marriage/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/mind/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/miracle/page/1/",
+          "word_count": 45
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/miracles/page/1/",
+          "word_count": 45
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/misattributed-eleanor-roosevelt/page/1/",
+          "word_count": 45
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/misattributed-john-lennon/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/misattributed-mark-twain/page/1/",
+          "word_count": 43
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/",
+          "word_count": 34
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/misattributed-to-einstein/page/1/",
+          "word_count": 39
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/mistakes/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/music/page/1/",
+          "word_count": 59
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/navigation/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/novelist-quotes/page/1/",
+          "word_count": 36
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/obvious/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/open-mind/page/1/",
+          "word_count": 51
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/opposite/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/paraphrased/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/peace/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/philosophy/page/1/",
+          "word_count": 59
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/planning/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/plans/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/poetry/page/1/",
+          "word_count": 68
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/quest/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/read/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/readers/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/reading-books/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/reading/",
+          "word_count": 149
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/reading/page/1/",
+          "word_count": 149
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/regrets/page/1/",
+          "word_count": 66
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/religion/page/1/",
+          "word_count": 64
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/romance/page/1/",
+          "word_count": 35
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/romantic/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/self-indulgence/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/seuss/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/simile/",
+          "word_count": 53
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/simile/page/1/",
+          "word_count": 53
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/simplicity/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/sinister/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/sisters/page/1/",
+          "word_count": 137
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/success/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/sun/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/tea/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/the-hunger-games/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/thinking/page/1/",
+          "word_count": 68
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/thought/page/1/",
+          "word_count": 41
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/travel/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/troubles/page/1/",
+          "word_count": 59
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/truth/",
+          "word_count": 83
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/truth/page/1/",
+          "word_count": 83
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/understand/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/understanding/page/1/",
+          "word_count": 39
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/unhappy-marriage/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/value/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/wander/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/wisdom/page/1/",
+          "word_count": 39
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/women/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/world/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/write/page/1/",
+          "word_count": 48
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/writers/page/1/",
+          "word_count": 48
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/writing/page/1/",
+          "word_count": 95
+        },
+        {
+          "url": "http://quotes.toscrape.com/tag/yourself/page/1/",
+          "word_count": 49
+        },
+        {
+          "url": "https://quotes.toscrape.com/",
+          "word_count": 148
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Albert-Einstein",
+          "word_count": 332
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Alexandre-Dumas-fils",
+          "word_count": 264
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Alfred-Tennyson",
+          "word_count": 160
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Allen-Saunders",
+          "word_count": 182
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Andre-Gide",
+          "word_count": 119
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Ayn-Rand",
+          "word_count": 191
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Bob-Marley",
+          "word_count": 113
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/C-S-Lewis",
+          "word_count": 107
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Charles-Bukowski",
+          "word_count": 193
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Charles-M-Schulz",
+          "word_count": 334
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Douglas-Adams",
+          "word_count": 162
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Dr-Seuss",
+          "word_count": 245
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/E-E-Cummings",
+          "word_count": 277
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Eleanor-Roosevelt",
+          "word_count": 133
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Elie-Wiesel",
+          "word_count": 111
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Ernest-Hemingway",
+          "word_count": 216
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Friedrich-Nietzsche",
+          "word_count": 114
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Garrison-Keillor",
+          "word_count": 339
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/George-Bernard-Shaw",
+          "word_count": 209
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/George-Carlin",
+          "word_count": 127
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/George-Eliot",
+          "word_count": 243
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/George-R-R-Martin",
+          "word_count": 210
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Harper-Lee",
+          "word_count": 217
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Haruki-Murakami",
+          "word_count": 167
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Helen-Keller",
+          "word_count": 281
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/J-D-Salinger",
+          "word_count": 205
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/J-K-Rowling",
+          "word_count": 341
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/J-M-Barrie",
+          "word_count": 138
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/J-R-R-Tolkien",
+          "word_count": 279
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/James-Baldwin",
+          "word_count": 220
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Jane-Austen",
+          "word_count": 199
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Jim-Henson",
+          "word_count": 129
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Jimi-Hendrix",
+          "word_count": 178
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/John-Lennon",
+          "word_count": 211
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Jorge-Luis-Borges",
+          "word_count": 138
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Khaled-Hosseini",
+          "word_count": 156
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Madeleine-LEngle",
+          "word_count": 264
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Marilyn-Monroe",
+          "word_count": 227
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Mark-Twain",
+          "word_count": 190
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Martin-Luther-King-Jr",
+          "word_count": 126
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Mother-Teresa",
+          "word_count": 130
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Pablo-Neruda",
+          "word_count": 229
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Ralph-Waldo-Emerson",
+          "word_count": 291
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Stephenie-Meyer",
+          "word_count": 275
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Steve-Martin",
+          "word_count": 101
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Suzanne-Collins",
+          "word_count": 192
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Terry-Pratchett",
+          "word_count": 198
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/Thomas-A-Edison",
+          "word_count": 130
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/W-C-Fields",
+          "word_count": 170
+        },
+        {
+          "url": "https://quotes.toscrape.com/author/William-Nicholson",
+          "word_count": 197
+        },
+        {
+          "url": "https://quotes.toscrape.com/js/",
+          "word_count": 10
+        },
+        {
+          "url": "https://quotes.toscrape.com/js/page/1/",
+          "word_count": 10
+        },
+        {
+          "url": "https://quotes.toscrape.com/js/page/10/",
+          "word_count": 10
+        },
+        {
+          "url": "https://quotes.toscrape.com/js/page/2/",
+          "word_count": 11
+        },
+        {
+          "url": "https://quotes.toscrape.com/js/page/3/",
+          "word_count": 11
+        },
+        {
+          "url": "https://quotes.toscrape.com/js/page/4/",
+          "word_count": 11
+        },
+        {
+          "url": "https://quotes.toscrape.com/js/page/5/",
+          "word_count": 11
+        },
+        {
+          "url": "https://quotes.toscrape.com/js/page/6/",
+          "word_count": 11
+        },
+        {
+          "url": "https://quotes.toscrape.com/js/page/7/",
+          "word_count": 11
+        },
+        {
+          "url": "https://quotes.toscrape.com/js/page/8/",
+          "word_count": 11
+        },
+        {
+          "url": "https://quotes.toscrape.com/js/page/9/",
+          "word_count": 11
+        },
+        {
+          "url": "https://quotes.toscrape.com/login",
+          "word_count": 11
+        },
+        {
+          "url": "https://quotes.toscrape.com/page/1/",
+          "word_count": 148
+        },
+        {
+          "url": "https://quotes.toscrape.com/page/10/",
+          "word_count": 149
+        },
+        {
+          "url": "https://quotes.toscrape.com/page/2/",
+          "word_count": 265
+        },
+        {
+          "url": "https://quotes.toscrape.com/page/3/",
+          "word_count": 173
+        },
+        {
+          "url": "https://quotes.toscrape.com/page/4/",
+          "word_count": 132
+        },
+        {
+          "url": "https://quotes.toscrape.com/page/5/",
+          "word_count": 146
+        },
+        {
+          "url": "https://quotes.toscrape.com/page/6/",
+          "word_count": 158
+        },
+        {
+          "url": "https://quotes.toscrape.com/page/7/",
+          "word_count": 215
+        },
+        {
+          "url": "https://quotes.toscrape.com/page/8/",
+          "word_count": 190
+        },
+        {
+          "url": "https://quotes.toscrape.com/page/9/",
+          "word_count": 205
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/abilities/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/activism/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/adulthood/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/adventure/page/1/",
+          "word_count": 34
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/age/page/1/",
+          "word_count": 41
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/alcohol/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/aliteracy/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/apathy/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/attributed-no-source/page/1/",
+          "word_count": 70
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/attributed/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/authors/page/1/",
+          "word_count": 68
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/be-yourself/page/1/",
+          "word_count": 41
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/beatles/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/better-life-empathy/page/1/",
+          "word_count": 50
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/bilbo/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/books/",
+          "word_count": 167
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/books/page/1/",
+          "word_count": 167
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/books/page/2/",
+          "word_count": 41
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/change/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/children/page/1/",
+          "word_count": 59
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/chocolate/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/choices/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/christianity/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/classic/page/1/",
+          "word_count": 56
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/comedy/page/1/",
+          "word_count": 43
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/connection/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/contentment/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/courage/page/1/",
+          "word_count": 52
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/death/page/1/",
+          "word_count": 69
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/deep-thoughts/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/difficult/page/1/",
+          "word_count": 48
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/dreamers/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/dreaming/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/dreams/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/drug/page/1/",
+          "word_count": 35
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/dumbledore/page/1/",
+          "word_count": 53
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/edison/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/education/page/1/",
+          "word_count": 35
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/elizabeth-bennet/page/1/",
+          "word_count": 69
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/failure/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/fairy-tales/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/fairytales/page/1/",
+          "word_count": 41
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/faith/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/fantasy/page/1/",
+          "word_count": 43
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/fate/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/fear/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/food/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/friends/",
+          "word_count": 160
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/friends/page/1/",
+          "word_count": 160
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/friendship/",
+          "word_count": 98
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/friendship/page/1/",
+          "word_count": 98
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/girls/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/god/page/1/",
+          "word_count": 46
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/good/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/growing-up/page/1/",
+          "word_count": 41
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/grown-ups/page/1/",
+          "word_count": 48
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/happiness/page/1/",
+          "word_count": 39
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/hate/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/heartbreak/page/1/",
+          "word_count": 137
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/hope/page/1/",
+          "word_count": 64
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/humor/",
+          "word_count": 170
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/humor/page/1/",
+          "word_count": 170
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/humor/page/2/",
+          "word_count": 55
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/imagination/page/1/",
+          "word_count": 36
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/indifference/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/insanity/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/inspiration/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/inspirational/",
+          "word_count": 233
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/inspirational/page/1/",
+          "word_count": 233
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/inspirational/page/2/",
+          "word_count": 72
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/integrity/page/1/",
+          "word_count": 63
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/jane-austen/page/1/",
+          "word_count": 69
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/journey/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/knowledge/page/1/",
+          "word_count": 39
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/lack-of-friendship/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/lack-of-love/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/learning/page/1/",
+          "word_count": 51
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/library/page/1/",
+          "word_count": 69
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/lies/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/life/",
+          "word_count": 229
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/life/page/1/",
+          "word_count": 229
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/life/page/2/",
+          "word_count": 71
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/literature/page/1/",
+          "word_count": 68
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/live-death-love/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/live/page/1/",
+          "word_count": 45
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/lost/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/love/",
+          "word_count": 273
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/love/page/1/",
+          "word_count": 273
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/love/page/2/",
+          "word_count": 121
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/lying/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/marriage/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/mind/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/miracle/page/1/",
+          "word_count": 45
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/miracles/page/1/",
+          "word_count": 45
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/misattributed-eleanor-roosevelt/page/1/",
+          "word_count": 45
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/misattributed-john-lennon/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/misattributed-mark-twain/page/1/",
+          "word_count": 43
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/misattributed-to-c-s-lewis/page/1/",
+          "word_count": 34
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/misattributed-to-einstein/page/1/",
+          "word_count": 39
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/misattributed-to-mother-teresa/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/mistakes/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/music/page/1/",
+          "word_count": 59
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/navigation/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/novelist-quotes/page/1/",
+          "word_count": 36
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/obvious/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/open-mind/page/1/",
+          "word_count": 51
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/opposite/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/paraphrased/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/peace/page/1/",
+          "word_count": 55
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/philosophy/page/1/",
+          "word_count": 59
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/planning/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/plans/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/poetry/page/1/",
+          "word_count": 68
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/quest/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/read/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/readers/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/reading-books/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/reading/",
+          "word_count": 149
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/reading/page/1/",
+          "word_count": 149
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/regrets/page/1/",
+          "word_count": 66
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/religion/page/1/",
+          "word_count": 64
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/romance/page/1/",
+          "word_count": 35
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/romantic/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/self-indulgence/page/1/",
+          "word_count": 44
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/seuss/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/simile/",
+          "word_count": 53
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/simile/page/1/",
+          "word_count": 53
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/simplicity/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/sinister/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/sisters/page/1/",
+          "word_count": 137
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/success/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/sun/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/tea/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/the-hunger-games/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/thinking/page/1/",
+          "word_count": 68
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/thought/page/1/",
+          "word_count": 41
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/travel/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/troubles/page/1/",
+          "word_count": 59
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/truth/",
+          "word_count": 83
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/truth/page/1/",
+          "word_count": 83
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/understand/page/1/",
+          "word_count": 40
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/understanding/page/1/",
+          "word_count": 39
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/unhappy-marriage/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/value/page/1/",
+          "word_count": 37
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/wander/page/1/",
+          "word_count": 38
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/wisdom/page/1/",
+          "word_count": 39
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/women/page/1/",
+          "word_count": 42
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/world/page/1/",
+          "word_count": 47
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/write/page/1/",
+          "word_count": 48
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/writers/page/1/",
+          "word_count": 48
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/writing/page/1/",
+          "word_count": 95
+        },
+        {
+          "url": "https://quotes.toscrape.com/tag/yourself/page/1/",
+          "word_count": 49
+        }
+      ]
+    }
+  ]
+}

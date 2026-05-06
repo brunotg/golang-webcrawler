@@ -1,0 +1,7 @@
+# Add one URL per line. Lines starting with # are ignored.
+#https://pptr.dev
+#https://example.com
+#https://hn.svelte.dev/top/1
+
+https://quotes.toscrape.com/js/
+#marmelab.com/react-admin-demo

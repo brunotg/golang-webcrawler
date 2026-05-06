@@ -1,0 +1,11 @@
+{
+  "sites_crawled": 1,
+  "grand_total_words": 43280,
+  "results": [
+    {
+      "start_url": "https://quotes.toscrape.com/js/",
+      "pages_visited": 439,
+      "total_words": 43280
+    }
+  ]
+}
